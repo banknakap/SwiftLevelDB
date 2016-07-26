@@ -1,0 +1,17 @@
+PODS:
+  - leveldb-library (1.18.2)
+  - SwiftLevelDB (0.1.0):
+    - leveldb-library (~> 1.18)
+
+DEPENDENCIES:
+  - SwiftLevelDB (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftLevelDB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  leveldb-library: ef0453697c0fda3a9e550e5650e52976e6724548
+  SwiftLevelDB: 964629645d7d55c3dfdda1ba70bd8956e137049c
+
+COCOAPODS: 0.39.0
