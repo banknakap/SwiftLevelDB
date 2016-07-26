@@ -40,7 +40,7 @@ pod 'SwiftLevelDB'
 
 ### Usage
 
-```
+```swift
 import SwiftLevelDB
 
 // Create a database.
