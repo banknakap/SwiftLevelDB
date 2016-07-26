@@ -1,4 +1,4 @@
-### SwiftLevelDB
+# SwiftLevelDB
 Swift binding for LevelDB
 
 ## Installation
